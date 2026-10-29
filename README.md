@@ -149,6 +149,4 @@ Graduando em Estatística — Universidade Federal de Goiás (UFG).
 
 [Eurostat — Official European Statistics](https://ec.europa.eu/eurostat)
 
-## Licença
 
-A licença de uso e redistribuição deste projeto deverá ser definida pelo autor.
