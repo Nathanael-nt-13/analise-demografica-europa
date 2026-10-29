@@ -135,8 +135,6 @@ A execução do primeiro script requer conexão à internet para consultar o Eur
 - Associações estatísticas não demonstram, por si só, relações causais.
 - Os resultados dependem da disponibilidade, cobertura e comparabilidade dos dados entre países e anos.
 
-## Resultados
-
 Os resultados numéricos, tabelas e gráficos devem ser documentados após a execução dos scripts e a verificação das saídas. Este README descreve os procedimentos implementados, sem antecipar conclusões empíricas.
 
 ## Autor
